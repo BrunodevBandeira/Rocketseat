@@ -1,0 +1,10 @@
+{
+  "name": "WorkSpace-Rocketseat",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Bruno Bandeira <brunodev29ab@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
